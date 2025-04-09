@@ -1,6 +1,6 @@
 ---
 title: Github and Hugging Face Space Synchronization
-emoji: 📈
+emoji: 🔁
 colorFrom: purple
 colorTo: purple
 sdk: docker
