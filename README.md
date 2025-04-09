@@ -9,7 +9,7 @@ short_description: 'A Sample Space Synced with a GitHub Repository '
 ---
 
 # Github and Hugging Face Synchronization
-This project shows you how to develop your app in GitHub and automatically sync it to a Hugging Face Space to host it online. For a detailed step-by-step guide with pictures, check out our [Medium article](something). Let’s get your app live easily!. 
+This project shows you how to develop your app in GitHub and automatically sync it to a Hugging Face Space to host it online. For a detailed step-by-step guide with pictures, check out our [Medium article](https://medium.com/@amirkiarafiei/github-repository-hugging-face-space-synchronization-step-by-step-guide-a6c79cc5d3c5). Let’s get your app live easily!. 
 
 ---
 
