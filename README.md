@@ -9,12 +9,16 @@ short_description: 'A Sample Space Synced with a GitHub Repository '
 ---
 
 # Github and Hugging Face Synchronization
-Welcome! This project shows you how to develop your app (like a chatbot) in GitHub and automatically sync it to a Hugging Face Space to host it online. For a detailed step-by-step guide with pictures, check out our [Medium article](something). Let’s get your app live easily!. 
+This project shows you how to develop your app in GitHub and automatically sync it to a Hugging Face Space to host it online. For a detailed step-by-step guide with pictures, check out our [Medium article](something). Let’s get your app live easily!. 
+
+---
 
 ### Requirements
 
 - `Python 3.9`
 - `pip install -r requirements.txt`
+
+---
 
 ### How to send a GET request to the Hugging Face Space endpoint
 
