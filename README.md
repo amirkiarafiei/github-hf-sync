@@ -1,8 +1,8 @@
 ---
 title: Github and Hugging Face Space Synchronization
-emoji: 🔁
-colorFrom: purple
-colorTo: purple
+emoji: 🔄
+colorFrom: yellow
+colorTo: yellow
 sdk: docker
 pinned: false
 short_description: 'A Sample Space Synced with a GitHub Repository '
