@@ -1,7 +1,7 @@
 ---
 title: Github and Hugging Face Space Synchronization
-emoji: 🔄
-colorFrom: yellow
+emoji: 🤝
+colorFrom: indigo
 colorTo: blue
 sdk: docker
 pinned: false
